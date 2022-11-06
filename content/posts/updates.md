@@ -13,4 +13,4 @@ hideComments = false
 color = "blue" #color from the theme settings
 +++
 
-So, I created this blog for my own Projects. I'm currently setting it up. Be prepared for sudden changes :)
+So, I created this blog for my own Projects. I'm currently setting it up. Be prepared for sudden changes :) 
