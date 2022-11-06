@@ -2,3 +2,7 @@ baseURL = 'http://blog.cyberpsych0si.is/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "terminal"
+
+[params]
+    color = "blue"
+    centerTheme = true

@@ -1,6 +1,6 @@
 +++
-title = "My First Post"
-date = "2022-11-06T11:58:44+01:00"
+title = "Updates"
+date = "2022-11-06T12:50:56+01:00"
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
@@ -13,10 +13,4 @@ hideComments = false
 color = "blue" #color from the theme settings
 +++
 
-hello
-
-```js
-function test() {
-    console.log("Hello World");
-}
-```
+So, I created this blog for my own Projects. I'm currently setting it up. Be prepared for sudden changes :)
