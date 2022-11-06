@@ -4,5 +4,5 @@ title = 'My New Hugo Site'
 theme = "terminal"
 
 [params]
-    color = "blue"
+    themeColor = "blue"
     centerTheme = true

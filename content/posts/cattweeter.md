@@ -10,7 +10,6 @@ description = ""
 showFullContent = false
 readingTime = false
 hideComments = false
-color = "" #color from the theme settings
 +++
 
 So yesterday I had a funny idea. What, if my cat had a tweet button?
