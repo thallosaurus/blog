@@ -1,0 +1,4 @@
+[submodule "themes/hacker"]
+	path = themes/hacker
+	url = https://github.com/thallosaurus/gohugo-hacker.git
+	branch = cyp-theme
