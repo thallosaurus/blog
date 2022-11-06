@@ -1,7 +1,4 @@
 baseURL = 'http://blog.cyberpsych0si.is/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "hacker"
-
-[params]
-colorScheme = "cyberpsych0siis"
+theme = "terminal"

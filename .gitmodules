@@ -1,4 +1,3 @@
-[submodule "themes/hacker"]
-	path = themes/hacker
-	url = https://github.com/thallosaurus/gohugo-hacker.git
-	branch = cyp-theme
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
